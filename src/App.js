@@ -1,9 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import Top from './Top'
 import Button from './Button';
-import FunctionBox from './FunctionBox';
-import ClassBox from './ClassBox';
+// import FunctionBox from './FunctionBox';
+// import ClassBox from './ClassBox';
 import './Style.css'
 
 
